@@ -1,0 +1,6 @@
+id=unlimitedphotos
+name=GPhotosUnlimited
+version=v7.1
+versionCode=71000
+author=Rev4N
+description=Lightweight C26/C2y Zygisk module enabling unlimited original-quality backup in Google Photos on Android 15+ (arm64-v8a).
